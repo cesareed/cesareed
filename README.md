@@ -25,8 +25,9 @@ Busco oportunidades para aprender, crescer e desenvolver minhas habilidades dent
 ---
 
 ##  Tecnologias e Ferramentas  
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60" alt="Arduino"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="60" alt="Hardware"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=dell&logoColor=white" alt="Hardware"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 </p>
