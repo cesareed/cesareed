@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Victor Gabriel  
 
-<!--
-**cesareed/cesareed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visualizações de Perfil](https://komarev.com/ghpvc/?username=cesareed&color=blue)  
+![Estrelas](https://img.shields.io/github/stars/cesareed?affiliations=OWNER&style=social)  
 
-Here are some ideas to get you started:
+Tenho 18 anos e atualmente estou cursando dois cursos técnicos:  
+- 📊 Administração  
+- 💻 Informática no **SENAC Tatuapé**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho conhecimento em **Hardware** e noções básicas de **montagem de computadores**, e meu interesse é atuar profissionalmente na área de **Tecnologia da Informação**.  
+
+---
+
+## 🎯 Objetivo
+Busco oportunidades para aprender, crescer e desenvolver minhas habilidades dentro do mundo da **TI**.  
+
+---
+
+## 🎮 Hobbies
+- Jogar jogos online  
+- Praticar esportes como **futebol** e **vôlei**  
+
