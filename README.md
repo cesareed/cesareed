@@ -22,4 +22,11 @@ Busco oportunidades para aprender, crescer e desenvolver minhas habilidades dent
 - Jogar jogos online  
 - Praticar esportes como **futebol** e **vôlei**  
 
+---
 
+##  Tecnologias e Ferramentas  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="60" alt="Arduino"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="60" alt="Hardware"/>
+</p>
