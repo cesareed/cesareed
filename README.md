@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/bff67d6e-5e11-4cda-9458-789f3d2d373e)
 
-
+<h1 align="center">buscando sempre aprender coisas novas 
 
 #  Olá, eu sou o Victor Gabriel  
 
